@@ -71,7 +71,9 @@ input[type="submit"] {
 input[type="file"] {
   padding: 1px 2px;
 }
-
+a{
+  color: #dfdfe2;
+}
 
 
 
