@@ -27,3 +27,7 @@ fieldset {
 fieldset:not(:last-of-type) {
   border-bottom: 3px solid #3b3b4f;
 }
+label {
+  display: block;
+	margin: 0.5rem 0;
+}
