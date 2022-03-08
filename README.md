@@ -74,7 +74,12 @@ input[type="file"] {
 a{
   color: #dfdfe2;
 }
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>freeCodeCamp Registration Form Project</title>
+	  <link rel="stylesheet" type="text/css" href="styles.css" />
+  </head>
 
 
 
