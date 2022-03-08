@@ -24,3 +24,6 @@ fieldset {
   border: none;
 	padding: 2rem 0;
 }
+fieldset:not(:last-of-type) {
+  border-bottom: 3px solid #3b3b4f;
+}
