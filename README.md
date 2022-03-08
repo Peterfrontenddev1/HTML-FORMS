@@ -80,7 +80,17 @@ a{
     <title>freeCodeCamp Registration Form Project</title>
 	  <link rel="stylesheet" type="text/css" href="styles.css" />
   </head>
-
+ <body>
+    <h1>Registration Form</h1>
+    <p>Please fill out this form with the required information</p>
+    <form action='https://fcc-registration-form.com'>
+      <fieldset>
+        <label>Enter Your First Name: <input type="text" name="first-name" required /></label>
+        <label>Enter Your Last Name: <input type="text" name="last-name" required /></label>
+        <label>Enter Your Email: <input type="email" name="email" required /></label>
+        <label>Create a New Password: <input type="password" name="password" pattern="[a-z0-5]{8,}" required /></label>
+      </fieldset>
+	    
 
 
 
