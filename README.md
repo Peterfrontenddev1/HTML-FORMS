@@ -20,3 +20,7 @@ form {
 	margin: 0 auto;
   padding-bottom: 2em;
 }
+fieldset {
+  border: none;
+	padding: 2rem 0;
+}
